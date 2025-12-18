@@ -1,5 +1,4 @@
-# HOla a todos 👋
-## Bienvenidos a mi repositorio 👨‍💻
+# Bienvenidos a mi repositorio 👨‍💻
 ## 🚀 **Proyectos Destacados**
 ### 📦 [Ejercicios](https://github.com/JMRS92/Ejercicios)
 > 🧠 *Colección de ejercicios para practicar programación en Java*
