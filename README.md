@@ -1,4 +1,4 @@
-# ¡Hola! Soy Julio Martín 👋
+# ¡Hola! Soy Julio Martín Rodríguez Sánchez - JMRS92 👋
 
 🚀 **Estudiante de Desarrollo de Aplicaciones Web (DAW) en ThePower**
 
@@ -26,5 +26,5 @@ Bienvenido a mi perfil de GitHub. Actualmente me encuentro en plena formación, 
 ### 📫 Contacto
 
 ¿Quieres charlar sobre desarrollo o ver en qué estoy trabajando?
-- 💼 **LinkedIn:** [julio-martin-rodriguez-sanchez](https://www.linkedin.com/in/julio-martin-rodriguez-sanchez)
+- 💼 **LinkedIn:** [julioRodriguez](https://www.linkedin.com/in/julio-martin-rodriguez-sanchez)
 - 📂 O simplemente echa un vistazo a mis repositorios fijados aquí abajo. 👇
